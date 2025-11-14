@@ -440,7 +440,9 @@ void assert_failed(uint8_t *file, uint32_t line)
  
 ## Output  :
 <img width="2559" height="1599" alt="Screenshot 2025-11-14 111224" src="https://github.com/user-attachments/assets/5b65ba02-06d6-4bc5-b343-4b965dae5281" />
-![exp8](https://github.com/user-attachments/assets/7521fb52-643e-4920-8d98-1398723be367)
+
+![exp8](https://github.com/user-attachments/assets/e9f97ec0-bc94-4d17-986b-664a63f57e3f)
+
 
 ## Result :
 THE implementation of configuring analog port to interface an analog sensor and read the values using serial port utility is successfull.
