@@ -1,6 +1,3 @@
-![exp8](https://github.com/user-attachments/assets/2220ebba-4e36-4495-8db1-777ce83ee160)**** 
-
-
 ### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
 ## Date: 
 ###  
@@ -443,7 +440,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  
 ## Output  :
 <img width="2559" height="1599" alt="Screenshot 2025-11-14 111224" src="https://github.com/user-attachments/assets/5b65ba02-06d6-4bc5-b343-4b965dae5281" />
-![exp8](https://github.com/user-attachments/assets/4080be91-3828-4f49-a4bd-a0b875233933)
+![exp8](https://github.com/user-attachments/assets/7521fb52-643e-4920-8d98-1398723be367)
 
 ## Result :
 THE implementation of configuring analog port to interface an analog sensor and read the values using serial port utility is successfull.
